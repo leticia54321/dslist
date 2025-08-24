@@ -1,7 +1,6 @@
 package com.projetojavaspring.dslist.controllers;
 import com.projetojavaspring.dslist.services.*;
 import com.projetojavaspring.dslist.dto.GameMinDTO;
-import com.projetojavaspring.dslist.entities.*;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
