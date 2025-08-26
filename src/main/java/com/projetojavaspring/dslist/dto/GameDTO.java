@@ -1,9 +1,9 @@
 package com.projetojavaspring.dslist.dto;
 import com.projetojavaspring.dslist.entities.Game;
-import org.springframework.beans.BeanUtils;
 
 import ch.qos.logback.core.joran.util.beans.BeanUtil;
-import jakarta.persistence.Column;
+
+import org.springframework.beans.BeanUtils;
 
 public class GameDTO {
     private Long id;
